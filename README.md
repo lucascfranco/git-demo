@@ -2,8 +2,6 @@
 
 This is the first file in the repo.
 
-## Ipsum Below
+## Website Contents
 
-asdasdasdasdasdsa
-
-asdasdasdasdasdsaasdasdasdasdasdsa
+1. Index
